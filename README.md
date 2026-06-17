@@ -13,7 +13,7 @@ This project analyzes a large-scale synthetic FMCG retail dataset (Jan–May 201
 
 ## Tools & Skills
 - **MySQL**: Schema design, CTEs, window functions, JOINs across 6.76M+ rows
-- **Power BI**: DAX measures, Power Query transformations, multi-page navigation
+- **Power BI**: DAX measures, multi-page navigation
 - **Data Storytelling**: Insight writing with SO WHAT / NOW WHAT framing
 
 ## Dashboard Preview
